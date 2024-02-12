@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000;
+}
+
+.lower-netflix{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 20px;
+}
+
+#sign-up{
+    width: 70px;
+    height: 30px;
+    font-size: 1rem;
+    background-color: red;
+    color: white;
+    border-radius: 20%;
+    margin-right: 30px;
+}
